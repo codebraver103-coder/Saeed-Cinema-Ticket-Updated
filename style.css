@@ -1,0 +1,52 @@
+body{
+    background-color: midnightblue;
+    color: aliceblue;
+    font-family: Arial, sans-serif;
+    max-width: 450px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: goldenrod;
+}
+
+input{
+    padding: 8px;
+    border: 2px solid dimgrey;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+input:hover{
+    border-color: goldenrod;
+}
+
+button{
+    background-color: goldenrod;
+    color: black;
+    padding: 10px 18px;
+    background-color: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: crimson;
+    color: white;
+}
+hr{
+    border-color: dimgray;
+}
+
+#result{
+    background-color: darkslateblue;
+padding: 15px;
+    border-radius: 8px;
+}
+
+#results h2 {
+    color: goldenrod;
+    margin-top: 0;
+}
